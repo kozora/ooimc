@@ -1,4 +1,4 @@
-## OOI MineCraft Server
+### OOI MineCraft Server
 
 #### 服务器配置
 
