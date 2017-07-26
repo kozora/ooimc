@@ -1,7 +1,5 @@
 ## OOI MineCraft Server
 
-***
-
 #### 服务器配置
 
 - Intel Xeon L5630 处理器
