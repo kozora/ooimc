@@ -1,5 +1,5 @@
 ### OOI MineCraft Server
-
+![](https://minecraft-mp.com/half-banner-169117-3.png)
 #### 服务器配置
 
 - Intel Xeon L5630 处理器
