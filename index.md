@@ -1,7 +1,7 @@
 ### OOI MineCraft Server
 
 - 本服务器不欢迎纯小白玩家，没有人有义务教你如何玩游戏。
-- 如有不懂请先自行查阅百科[打开百科](https://minecraft-zh.gamepedia.com/index.php?title=Minecraft_Wiki&variant=zh-cn)
+- 如有不懂请先自行[查阅百科](https://minecraft-zh.gamepedia.com/index.php?title=Minecraft_Wiki&variant=zh-cn){:target="_blank"}
 
 ![](https://minecraft-mp.com/half-banner-169117-3.png)
 #### 服务器配置
@@ -21,7 +21,7 @@
 
 启动器设置好昵称以后（不支持中文、特殊字符```_```除外），进入游戏。
 
-加入QQ群：337440297，私聊群主你要注册的账号和密码
+加入QQ群：337440297 私聊群主你要注册的账号和密码
 
 回车确认注册
 
@@ -36,7 +36,7 @@
 部分命令使用会产生金钱消耗，金钱来源来自在线奖励，此外无其他来源
 
 - 使用```/ptt```查看自己在线时间
-- 使用```/ptt ac```领取在线奖励（每15分钟可领一次奖励，每次奖励5$）
+- 使用```/ptt ac```领取在线奖励（在线1小时可领一次奖励，每次奖励25$，每天领取一次。）
 - 使用```/home```传送回家，计费算法：每次使用消耗3$
 - 使用```/bal```查看自己的余额
 
