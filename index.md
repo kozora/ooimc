@@ -1,4 +1,7 @@
 ### OOI MineCraft Server
+
+本服务器不欢迎纯小白玩家，没有人有义务教你如何玩游戏。
+
 ![](https://minecraft-mp.com/half-banner-169117-3.png)
 #### 服务器配置
 
