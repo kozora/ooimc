@@ -1,6 +1,7 @@
 ### OOI MineCraft Server
 
-本服务器不欢迎纯小白玩家，没有人有义务教你如何玩游戏。
+- 本服务器不欢迎纯小白玩家，没有人有义务教你如何玩游戏。
+- 如有不懂请先自行查阅百科[打开百科](https://minecraft-zh.gamepedia.com/index.php?title=Minecraft_Wiki&variant=zh-cn)
 
 ![](https://minecraft-mp.com/half-banner-169117-3.png)
 #### 服务器配置
