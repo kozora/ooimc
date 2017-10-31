@@ -3,7 +3,7 @@
 - 本服务器不欢迎纯小白玩家，没有人有义务教你如何玩游戏。
 - 如有不懂请先自行[查阅百科](https://minecraft-zh.gamepedia.com/index.php?title=Minecraft_Wiki&variant=zh-cn){:target="_blank"}
 
-![](https://minecraft-mp.com/half-banner-169117-3.png)
+![](https://minecraft-mp.com/regular-banner-169117-4.png)
 #### 服务器配置
 
 - Intel Xeon L5630 处理器
