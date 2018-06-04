@@ -1,0 +1,35 @@
+`apt-get install git build-essential cmake -y`
+
+require
+
+`apt-get install aptitude -y
+aptitude install build-essential -y`
+
+`apt-get install -y libsodium-dev libpcre3 libpcre3-dev libssl-dev`
+
+cd
+git clone https://github.com/shadowsocksr-backup/shadowsocksr-libev.git
+cd shadowsocksr-libev
+sudo ./configure --prefix=/usr/local/shadowsocksR --disable-documentation
+sudo make -j4
+sudo make install
+
+sudo mkdir /usr/local/shadowsocksR/conf
+sudo vi config.json
+
+{ 
+    "server":"your server address here",
+    "server_port":1234,
+    "local_port":1080,
+    "password":"your password here", 
+    "timeout":600,
+    "method":"chacha20", 
+    "protocol":"auth_aes128_md5", 
+    "obfs":"tls1.2_ticket_auth", 
+    "obfsparam":"" ,
+    "group":"any you like",
+    "local_address":"0.0.0.0",
+}
+
+
+/usr/local/shadowsocksR/bin/ss-local -c /usr/local/shadowsocksR/conf/config.json
